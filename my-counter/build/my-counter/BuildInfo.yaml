@@ -256,7 +256,7 @@ compiled_package_info:
     ? address: "0xe6633c3ce7fbc919f0f163416ba757f0"
       name: MyCounter
     : MyCounterAddr
-  source_digest: 5766CD1A2B3F0E994719E987E818DBEA57C2E6CE5982BBD8ACCBEAF92FCBBB13
+  source_digest: 6421E70583AB60540A7B5891D6CE8AFC560DFE9EE891A66C1F83678117064501
   build_flags:
     dev_mode: false
     test_mode: false
